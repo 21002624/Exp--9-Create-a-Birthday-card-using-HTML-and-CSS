@@ -108,4 +108,5 @@
 ```
 
 #output
-![Screenshot (86)](https://github.com/21002624/Exp--9-Create-a-Birthday-card-using-HTML-and-CSS/assets/113762183/198503c7-350c-4a12-b830-f607f935f742)
+![Screenshot (86)](https://github.com/21002624/Exp--9-Create-a-Birthday-card-using-HTML-and-CSS/assets/113762183/22a04e20-7f78-4b66-b2e2-c59769e13463)
+
